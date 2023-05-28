@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lalit Katheriya</h1>
 <h3 align="center">A passionate full Stack web developer from India</h3>
-<img src="https://tenor.com/bW7J3.gif"></img>
-<p align="left"> <img width="400" src="https://komarev.com/ghpvc/?username=uncoders94&label=Profile%20views&color=0e75b6&style=flat" alt="uncoders94" /> </p>
+<img src="https://tenor.com/bW7J3.gif" width="400"></img>
+<p align="left"> 
+  <img  src="https://komarev.com/ghpvc/?username=uncoders94&label=Profile%20views&color=0e75b6&style=flat" alt="uncoders94" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uncoders94" alt="uncoders94" /></a> </p>
 
