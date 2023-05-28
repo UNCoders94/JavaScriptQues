@@ -2,16 +2,11 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
 
-- 🔭 I’m currently working on **Buckoid Android App**
-- 🔭 I’m currently working on **Vexa Web App**
-
-- 🌱 I’m currently learning **DevOps**
 
 <h1 align="center">Hi 👋, I'm Lalit Katheriya</h1>
 <h3 align="center">A passionate full Stack web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> 
   <img  src="https://komarev.com/ghpvc/?username=uncoders94&label=Profile%20views&color=0e75b6&style=flat" alt="uncoders94" />
 </p>
@@ -21,12 +16,13 @@
 <p align="left"> <a href="https://twitter.com/uncoders94" target="blank"><img src="https://img.shields.io/twitter/follow/uncoders94?logo=twitter&style=for-the-badge" alt="uncoders94" /></a> </p>
 
 - 🔭 I’m currently working on [Lottosocial](https://app.lottosocial.com/)
-
+- 🔭 I’m currently working on **Angularjs and IONIC **
+- 🔭 I’m currently working on **Vexa Web App**
+- 🌱 I’m currently learning **DevOps**
 - 👨‍💻 All of my projects are available at [https://uncoders.my.canva.site/](https://uncoders.my.canva.site/)
-
 - 💬 Ask me about **Angular IONIC Nodes firebase Mongodb**
-
 - 📫 How to reach me **uncoder30794@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
