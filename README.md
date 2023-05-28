@@ -8,10 +8,9 @@
 <h3 align="center">A passionate full Stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uncoders94" alt="uncoders94" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/uncoders94" target="blank"><img src="https://img.shields.io/twitter/follow/uncoders94?logo=twitter&style=for-the-badge" alt="uncoders94" /></a> </p>
+<p align="left"> <a href="https://twitter.com/uncoders94" target="blank"><img src="https://img.shields.io/twitter/follow/uncoders94?logo=twitter&style=for-the-badge" alt="uncoders94"/></a> </p>
 
 - 🔭 I’m currently working on [Lottosocial](https://app.lottosocial.com/)
 - 🔭 I’m currently working on **Angularjs and IONIC **
